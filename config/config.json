@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "regita",
+    "database": "sekolahku_development",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "regita",
+    "database": "sekolahku_test",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "regita",
+    "database": "sekolahku_production",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}

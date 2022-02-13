@@ -1,0 +1,29 @@
+{
+  "name": "express-sequelize",
+  "version": "1.0.0",
+  "description": "Practice ORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RegitaAndrianne/express-sequelize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RegitaAndrianne/express-sequelize/issues"
+  },
+  "homepage": "https://github.com/RegitaAndrianne/express-sequelize#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "pg": "^8.7.3",
+    "sequelize": "^6.16.1"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.4.1"
+  }
+}
